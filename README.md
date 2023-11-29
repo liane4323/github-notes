@@ -1,4 +1,4 @@
-# github-notes
+# Github Notes
 
 ### Vocabulary 
 
