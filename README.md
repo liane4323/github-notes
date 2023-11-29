@@ -14,4 +14,5 @@
 ### How does collaboration work on Github? 
 
 #### Initial understanding:
-When your working with your partner it may be fustrating to make changes and step on each others toes. Thats why cloning your repo from Github into your computer and both working at your same pace you can use push and pull to make the changes go from your computer to the repo, or from the repo to your computer. 
+When you're working with your partner it may be frustrating to make changes and step on each other's toes. That's why cloning your repo from GitHub into your computer and both working at the same pace you can use push and pull to make the changes go from your computer to the repo, or from the repo to your computer.
+
